@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{149DF588-EBF3-420E-A325-2FF6B0D50F81}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VectorLibs.Tests/VectorTests.cs">
+    <Files>
+      <File FileName="DemoClass/Program.cs" />
+      <File FileName="DemoClass/Vector.cs" />
+      <File FileName="VectorLibs.Tests/VectorTests.cs" Line="22" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VectorLib" expanded="True">
+            <Node name="VectorLib" expanded="True" />
+            <Node name="VectorLibs.Tests" expanded="True">
+              <Node name="VectorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="VectorLib" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.VectorLib PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

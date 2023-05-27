@@ -1,0 +1,15 @@
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/bin/Debug/net7.0/VectorLib
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/bin/Debug/net7.0/VectorLib.deps.json
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/bin/Debug/net7.0/VectorLib.runtimeconfig.json
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/bin/Debug/net7.0/VectorLib.dll
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/bin/Debug/net7.0/VectorLib.pdb
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.csproj.AssemblyReference.cache
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.AssemblyInfoInputs.cache
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.AssemblyInfo.cs
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.csproj.CoreCompileInputs.cache
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.dll
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/refint/VectorLib.dll
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.pdb
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/VectorLib.genruntimeconfig.cache
+/Users/mariabychkova/Documents/uni study/6 семестр/Тестирование и отладка ПО/VectorLib/DemoClass/obj/Debug/net7.0/ref/VectorLib.dll
